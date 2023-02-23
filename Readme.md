@@ -19,3 +19,5 @@ Devuelve el resultado o null, para que devuelva el resultado debemso de trabajar
 
 ---
 Los datos se piden con la librería entrada y salida, que se puede consultar [Aquí](https://github.com/marcosfa00/EntradaSalida)
+
+también se puede consultar el [JavaDoc](https://marcosfa00.github.io/LibreriaCalculadoraOperaciones/)
